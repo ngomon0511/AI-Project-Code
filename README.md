@@ -1,0 +1,1 @@
+Welcome to my AI project. This project in my course "Project of Robotics and AI". The main purpose of project is building a software that gives the forecasting about electricity consumption in the future. The project detail is express in the PDF report file.
